@@ -1,0 +1,5 @@
+<library path="lib/libPairsUavStateEstimators_Mins">
+  <class name="mins/MinsEstimatorPlugin" type="mins::Mins" base_class_type="pairs_uav_managers::StateEstimator">
+    <description>mins state estimator</description>
+  </class>
+</library>
