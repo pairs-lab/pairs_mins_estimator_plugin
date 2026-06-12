@@ -3,7 +3,7 @@
 
   <name>pairs_mins_estimator_plugin</name>
   <version>1.0.0</version>
-  <description>MRS mins state estimator plugin</description>
+  <description>PAIRS mins state estimator plugin</description>
 
   <maintainer email="canhthanh@vnu.edu.vn">Thanh Nguyen Canh</maintainer>
   <author email="canhthanh@vnu.edu.vn">Thanh Nguyen Canh</author>
